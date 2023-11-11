@@ -1,12 +1,3 @@
-## Hi there 👋
+## 🚀 Miss Factorial Academy 
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+In a world where data fluency has become as indispensable as literacy, our goal is to unlock the power of science and technology for all, transcending profession, socioeconomic status, cultural background, or educational level. Guided by the belief that learning should be as exciting as the most captivating episodes of your favorite series, at Miss Factorial Academy we walk towards a future where every lesson is an adventure, every concept a discovery, and every student a story of success waiting to unfold.
